@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.fondo{
-  background-image: url("/fondo2.jpg");
-  
+.fondo {
+  background-image: url("/fondo.jpg"); /* si lo tienes en public */
+  background-size: cover;
+  background-position: center;
 }
