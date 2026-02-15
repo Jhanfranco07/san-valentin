@@ -160,7 +160,7 @@ export default function App() {
           "
         >
           <h1 className="text-white font-extrabold leading-tight text-3xl">
-            Sabía que dirías que sí uu
+            Sabía que dirías que sí!
 Feliz San Valentín ❤️!
           </h1>
 
